@@ -1,4 +1,4 @@
-#Initialize git repository in from local directory#
+<Initialize git repository in from local directory>
 #Create index.html, style.css, index.js and README.md files#
 #Add files to prepare for staging#
 #Stage files using commit messages#
